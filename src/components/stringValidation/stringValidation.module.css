@@ -1,0 +1,27 @@
+.container{
+    width: 700px;
+    height: 350px;
+    margin: 0 auto;
+}
+.validation__input{
+    outline:none;
+    width: 400px;
+    height: 50px;
+    font-family: inherit;
+    font-size: 1rem;
+    color: #212529;
+    background-color: #fff;
+    border: 1px solid #bdbdbd;
+    border-radius: 0.25rem;
+}
+.validation__button{
+    width: 150px;
+    height: 45px;
+    appearance: none;
+    border: 0;
+    background: #1bbc9b;
+    color: #fff;
+    font-size: 1rem;
+    font-family: inherit;
+    margin: 50px 10px;
+}

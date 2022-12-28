@@ -1,0 +1,16 @@
+.container{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+}
+.form__button{
+    width: 250px;
+    height: 45px;
+    appearance: none;
+    border: 0;
+    background: #1bbc9b;
+    color: #fff;
+    font-size: 1rem;
+    font-family: inherit;
+    margin: 50px 120px;
+}
